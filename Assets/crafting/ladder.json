@@ -1,0 +1,17 @@
+{
+    "type": "shaped",
+    "pattern": [
+        "0_0",
+        "000",
+        "0_0"
+    ],
+    "key": {
+        "0": {
+            "item": "stick"
+        }
+    },
+    "result": {
+        "item": "ladder",
+        "count": 1
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "shaped",
+    "pattern": [
+        "_0_",
+        "_1_",
+        "_1_"
+    ],
+    "key": {
+        "0": {
+            "item": "stone"
+        },
+        "1": {
+            "item": "stick"
+        }
+    },
+    "result": {
+        "item": "stone_shovel",
+        "count": 1
+    }
+}

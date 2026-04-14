@@ -1,0 +1,20 @@
+{
+    "type": "shaped",
+    "pattern": [
+        "00_",
+        "10_",
+        "1__"
+    ],
+    "key": {
+        "0": {
+            "item": "oak_planks"
+        },
+        "1": {
+            "item": "stick"
+        }
+    },
+    "result": {
+        "item": "wooden_axe",
+        "count": 1
+    }
+}
