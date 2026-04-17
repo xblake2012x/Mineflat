@@ -1,0 +1,1369 @@
+{
+  "grass": {
+    "hardness": 0.6,
+    "tool": "shovel",
+    "dropabletool": [
+      "shovel"
+    ],
+    "dropabletier": "fist",
+    "transparent": false,
+    "drops": [
+      {
+        "item": "dirt",
+        "chance": 1.0,
+        "conditions": {
+          "silktouch": false,
+          "fortune": false
+        }
+      },
+      {
+        "item": "grass",
+        "chance": 1.0,
+        "conditions": {
+          "silktouch": true,
+          "fortune": false
+        }
+      }
+    ]
+  },
+  "cobble_stone": {
+    "hardness": 2.0,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "cobble_stone"
+    ]
+  },
+  "stone": {
+    "hardness": 1.5,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "dropabletier": "wood",
+    "transparent": false,
+    "drops": [
+      {
+        "item": "cobble_stone",
+        "chance": 1.0,
+        "conditions": {
+          "silktouch": false,
+          "fortune": false
+        }
+      },
+      {
+        "item": "stone",
+        "chance": 1.0,
+        "conditions": {
+          "silktouch": true,
+          "fortune": false
+        }
+      }
+    ]
+  },
+  "bricks": {
+    "hardness": 2.0,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "bricks"
+    ]
+  },
+  "oak_planks": {
+    "hardness": 2.0,
+    "tool": "axe",
+    "dropabletool": [
+      "axe"
+    ],
+    "transparent": false,
+    "drops": [
+      "oak_planks"
+    ]
+  },
+  "oak_log": {
+    "hardness": 2.0,
+    "tool": "axe",
+    "dropabletool": [
+      "axe"
+    ],
+    "transparent": false,
+    "drops": [
+      "oak_log"
+    ]
+  },
+  "dirt": {
+    "hardness": 0.5,
+    "tool": "shovel",
+    "dropabletool": [
+      "shovel"
+    ],
+    "transparent": false,
+    "drops": [
+      "dirt"
+    ]
+  },
+  "oak_leaves": {
+    "hardness": 0.2,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": true,
+    "drops": []
+  },
+  "glass": {
+    "hardness": 0.3,
+    "tool": "none",
+    "dropabletool": [],
+    "transparent": true,
+    "drops": []
+  },
+  "oak_door_bottom": {
+    "hardness": 3.0,
+    "tool": "axe",
+    "dropabletool": [
+      "axe"
+    ],
+    "transparent": true,
+    "drops": [
+      "oak_door_bottom"
+    ]
+  },
+  "oak_door_top": {
+    "hardness": 3.0,
+    "tool": "axe",
+    "dropabletool": [
+      "axe"
+    ],
+    "transparent": true,
+    "drops": []
+  },
+  "ladder": {
+    "hardness": 0.4,
+    "tool": "axe",
+    "dropabletool": [
+      "axe"
+    ],
+    "transparent": true,
+    "drops": [
+      "ladder"
+    ]
+  },
+  "blue_concrete": {
+    "hardness": 1.8,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "blue_concrete"
+    ]
+  },
+  "black_concrete": {
+    "hardness": 1.8,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "black_concrete"
+    ]
+  },
+  "brown_concrete": {
+    "hardness": 1.8,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "brown_concrete"
+    ]
+  },
+  "cyan_concrete": {
+    "hardness": 1.8,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "cyan_concrete"
+    ]
+  },
+  "gray_concrete": {
+    "hardness": 1.8,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "gray_concrete"
+    ]
+  },
+  "green_concrete": {
+    "hardness": 1.8,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "green_concrete"
+    ]
+  },
+  "light_blue_concrete": {
+    "hardness": 1.8,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "light_blue_concrete"
+    ]
+  },
+  "light_gray_concrete": {
+    "hardness": 1.8,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "light_gray_concrete"
+    ]
+  },
+  "lime_concrete": {
+    "hardness": 1.8,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "lime_concrete"
+    ]
+  },
+  "magenta_concrete": {
+    "hardness": 1.8,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "magenta_concrete"
+    ]
+  },
+  "orange_concrete": {
+    "hardness": 1.8,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "orange_concrete"
+    ]
+  },
+  "pink_concrete": {
+    "hardness": 1.8,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "pink_concrete"
+    ]
+  },
+  "purple_concrete": {
+    "hardness": 1.8,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "purple_concrete"
+    ]
+  },
+  "red_concrete": {
+    "hardness": 1.8,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "red_concrete"
+    ]
+  },
+  "white_concrete": {
+    "hardness": 1.8,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "white_concrete"
+    ]
+  },
+  "yellow_concrete": {
+    "hardness": 1.8,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "yellow_concrete"
+    ]
+  },
+  "sand": {
+    "hardness": 0.5,
+    "tool": "shovel",
+    "dropabletool": [
+      "shovel"
+    ],
+    "transparent": false,
+    "drops": [
+      "sand"
+    ]
+  },
+  "gravel": {
+    "hardness": 0.6,
+    "tool": "shovel",
+    "dropabletool": [
+      "shovel"
+    ],
+    "transparent": false,
+    "drops": [
+      "gravel"
+    ]
+  },
+  "water": {
+    "hardness": 100.0,
+    "tool": "none",
+    "dropabletool": [],
+    "transparent": true,
+    "drops": []
+  },
+  "flowing_water": {
+    "hardness": 100.0,
+    "tool": "none",
+    "dropabletool": [],
+    "transparent": true,
+    "drops": []
+  },
+  "tinted_glass": {
+    "hardness": 0.3,
+    "tool": "none",
+    "dropabletool": [],
+    "transparent": true,
+    "drops": []
+  },
+  "white_stained_glass": {
+    "hardness": 0.3,
+    "tool": "none",
+    "dropabletool": [],
+    "transparent": true,
+    "drops": []
+  },
+  "orange_stained_glass": {
+    "hardness": 0.3,
+    "tool": "none",
+    "dropabletool": [],
+    "transparent": true,
+    "drops": []
+  },
+  "magenta_stained_glass": {
+    "hardness": 0.3,
+    "tool": "none",
+    "dropabletool": [],
+    "transparent": true,
+    "drops": []
+  },
+  "light_blue_stained_glass": {
+    "hardness": 0.3,
+    "tool": "none",
+    "dropabletool": [],
+    "transparent": true,
+    "drops": []
+  },
+  "yellow_stained_glass": {
+    "hardness": 0.3,
+    "tool": "none",
+    "dropabletool": [],
+    "transparent": true,
+    "drops": []
+  },
+  "lime_stained_glass": {
+    "hardness": 0.3,
+    "tool": "none",
+    "dropabletool": [],
+    "transparent": true,
+    "drops": []
+  },
+  "pink_stained_glass": {
+    "hardness": 0.3,
+    "tool": "none",
+    "dropabletool": [],
+    "transparent": true,
+    "drops": []
+  },
+  "gray_stained_glass": {
+    "hardness": 0.3,
+    "tool": "none",
+    "dropabletool": [],
+    "transparent": true,
+    "drops": []
+  },
+  "light_gray_stained_glass": {
+    "hardness": 0.3,
+    "tool": "none",
+    "dropabletool": [],
+    "transparent": true,
+    "drops": []
+  },
+  "cyan_stained_glass": {
+    "hardness": 0.3,
+    "tool": "none",
+    "dropabletool": [],
+    "transparent": true,
+    "drops": []
+  },
+  "purple_stained_glass": {
+    "hardness": 0.3,
+    "tool": "none",
+    "dropabletool": [],
+    "transparent": true,
+    "drops": []
+  },
+  "blue_stained_glass": {
+    "hardness": 0.3,
+    "tool": "none",
+    "dropabletool": [],
+    "transparent": true,
+    "drops": []
+  },
+  "brown_stained_glass": {
+    "hardness": 0.3,
+    "tool": "none",
+    "dropabletool": [],
+    "transparent": true,
+    "drops": []
+  },
+  "green_stained_glass": {
+    "hardness": 0.3,
+    "tool": "none",
+    "dropabletool": [],
+    "transparent": true,
+    "drops": []
+  },
+  "red_stained_glass": {
+    "hardness": 0.3,
+    "tool": "none",
+    "dropabletool": [],
+    "transparent": true,
+    "drops": []
+  },
+  "black_stained_glass": {
+    "hardness": 0.3,
+    "tool": "none",
+    "dropabletool": [],
+    "transparent": true,
+    "drops": []
+  },
+  "white_wool": {
+    "hardness": 0.8,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": false,
+    "drops": [
+      "white_wool"
+    ]
+  },
+  "orange_wool": {
+    "hardness": 0.8,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": false,
+    "drops": [
+      "orange_wool"
+    ]
+  },
+  "magenta_wool": {
+    "hardness": 0.8,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": false,
+    "drops": [
+      "magenta_wool"
+    ]
+  },
+  "light_blue_wool": {
+    "hardness": 0.8,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": false,
+    "drops": [
+      "light_blue_wool"
+    ]
+  },
+  "yellow_wool": {
+    "hardness": 0.8,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": false,
+    "drops": [
+      "yellow_wool"
+    ]
+  },
+  "lime_wool": {
+    "hardness": 0.8,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": false,
+    "drops": [
+      "lime_wool"
+    ]
+  },
+  "pink_wool": {
+    "hardness": 0.8,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": false,
+    "drops": [
+      "pink_wool"
+    ]
+  },
+  "gray_wool": {
+    "hardness": 0.8,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": false,
+    "drops": [
+      "gray_wool"
+    ]
+  },
+  "light_gray_wool": {
+    "hardness": 0.8,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": false,
+    "drops": [
+      "light_gray_wool"
+    ]
+  },
+  "cyan_wool": {
+    "hardness": 0.8,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": false,
+    "drops": [
+      "cyan_wool"
+    ]
+  },
+  "purple_wool": {
+    "hardness": 0.8,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": false,
+    "drops": [
+      "purple_wool"
+    ]
+  },
+  "blue_wool": {
+    "hardness": 0.8,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": false,
+    "drops": [
+      "blue_wool"
+    ]
+  },
+  "brown_wool": {
+    "hardness": 0.8,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": false,
+    "drops": [
+      "brown_wool"
+    ]
+  },
+  "green_wool": {
+    "hardness": 0.8,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": false,
+    "drops": [
+      "green_wool"
+    ]
+  },
+  "red_wool": {
+    "hardness": 0.8,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": false,
+    "drops": [
+      "red_wool"
+    ]
+  },
+  "black_wool": {
+    "hardness": 0.8,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": false,
+    "drops": [
+      "black_wool"
+    ]
+  },
+  "white_carpet": {
+    "hardness": 0.1,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": true,
+    "drops": [
+      "white_carpet"
+    ]
+  },
+  "orange_carpet": {
+    "hardness": 0.1,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": true,
+    "drops": [
+      "orange_carpet"
+    ]
+  },
+  "magenta_carpet": {
+    "hardness": 0.1,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": true,
+    "drops": [
+      "magenta_carpet"
+    ]
+  },
+  "light_blue_carpet": {
+    "hardness": 0.1,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": true,
+    "drops": [
+      "light_blue_carpet"
+    ]
+  },
+  "yellow_carpet": {
+    "hardness": 0.1,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": true,
+    "drops": [
+      "yellow_carpet"
+    ]
+  },
+  "lime_carpet": {
+    "hardness": 0.1,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": true,
+    "drops": [
+      "lime_carpet"
+    ]
+  },
+  "pink_carpet": {
+    "hardness": 0.1,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": true,
+    "drops": [
+      "pink_carpet"
+    ]
+  },
+  "gray_carpet": {
+    "hardness": 0.1,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": true,
+    "drops": [
+      "gray_carpet"
+    ]
+  },
+  "light_gray_carpet": {
+    "hardness": 0.1,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": true,
+    "drops": [
+      "light_gray_carpet"
+    ]
+  },
+  "cyan_carpet": {
+    "hardness": 0.1,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": true,
+    "drops": [
+      "cyan_carpet"
+    ]
+  },
+  "purple_carpet": {
+    "hardness": 0.1,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": true,
+    "drops": [
+      "purple_carpet"
+    ]
+  },
+  "blue_carpet": {
+    "hardness": 0.1,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": true,
+    "drops": [
+      "blue_carpet"
+    ]
+  },
+  "brown_carpet": {
+    "hardness": 0.1,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": true,
+    "drops": [
+      "brown_carpet"
+    ]
+  },
+  "green_carpet": {
+    "hardness": 0.1,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": true,
+    "drops": [
+      "green_carpet"
+    ]
+  },
+  "red_carpet": {
+    "hardness": 0.1,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": true,
+    "drops": [
+      "red_carpet"
+    ]
+  },
+  "black_carpet": {
+    "hardness": 0.1,
+    "tool": "shears",
+    "dropabletool": [
+      "shears"
+    ],
+    "transparent": true,
+    "drops": [
+      "black_carpet"
+    ]
+  },
+  "white_terracotta": {
+    "hardness": 1.25,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "white_terracotta"
+    ]
+  },
+  "orange_terracotta": {
+    "hardness": 1.25,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "orange_terracotta"
+    ]
+  },
+  "magenta_terracotta": {
+    "hardness": 1.25,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "magenta_terracotta"
+    ]
+  },
+  "light_blue_terracotta": {
+    "hardness": 1.25,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "light_blue_terracotta"
+    ]
+  },
+  "yellow_terracotta": {
+    "hardness": 1.25,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "yellow_terracotta"
+    ]
+  },
+  "lime_terracotta": {
+    "hardness": 1.25,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "lime_terracotta"
+    ]
+  },
+  "pink_terracotta": {
+    "hardness": 1.25,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "pink_terracotta"
+    ]
+  },
+  "gray_terracotta": {
+    "hardness": 1.25,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "gray_terracotta"
+    ]
+  },
+  "light_gray_terracotta": {
+    "hardness": 1.25,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "light_gray_terracotta"
+    ]
+  },
+  "cyan_terracotta": {
+    "hardness": 1.25,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "cyan_terracotta"
+    ]
+  },
+  "purple_terracotta": {
+    "hardness": 1.25,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "purple_terracotta"
+    ]
+  },
+  "blue_terracotta": {
+    "hardness": 1.25,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "blue_terracotta"
+    ]
+  },
+  "brown_terracotta": {
+    "hardness": 1.25,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "brown_terracotta"
+    ]
+  },
+  "green_terracotta": {
+    "hardness": 1.25,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "green_terracotta"
+    ]
+  },
+  "red_terracotta": {
+    "hardness": 1.25,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "red_terracotta"
+    ]
+  },
+  "black_terracotta": {
+    "hardness": 1.25,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "black_terracotta"
+    ]
+  },
+  "white_glazed_terracotta": {
+    "hardness": 1.4,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "white_glazed_terracotta"
+    ]
+  },
+  "orange_glazed_terracotta": {
+    "hardness": 1.4,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "orange_glazed_terracotta"
+    ]
+  },
+  "magenta_glazed_terracotta": {
+    "hardness": 1.4,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "magenta_glazed_terracotta"
+    ]
+  },
+  "light_blue_glazed_terracotta": {
+    "hardness": 1.4,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "light_blue_glazed_terracotta"
+    ]
+  },
+  "yellow_glazed_terracotta": {
+    "hardness": 1.4,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "yellow_glazed_terracotta"
+    ]
+  },
+  "lime_glazed_terracotta": {
+    "hardness": 1.4,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "lime_glazed_terracotta"
+    ]
+  },
+  "pink_glazed_terracotta": {
+    "hardness": 1.4,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "pink_glazed_terracotta"
+    ]
+  },
+  "gray_glazed_terracotta": {
+    "hardness": 1.4,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "gray_glazed_terracotta"
+    ]
+  },
+  "light_gray_glazed_terracotta": {
+    "hardness": 1.4,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "light_gray_glazed_terracotta"
+    ]
+  },
+  "cyan_glazed_terracotta": {
+    "hardness": 1.4,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "cyan_glazed_terracotta"
+    ]
+  },
+  "purple_glazed_terracotta": {
+    "hardness": 1.4,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "purple_glazed_terracotta"
+    ]
+  },
+  "blue_glazed_terracotta": {
+    "hardness": 1.4,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "blue_glazed_terracotta"
+    ]
+  },
+  "brown_glazed_terracotta": {
+    "hardness": 1.4,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "brown_glazed_terracotta"
+    ]
+  },
+  "green_glazed_terracotta": {
+    "hardness": 1.4,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "green_glazed_terracotta"
+    ]
+  },
+  "red_glazed_terracotta": {
+    "hardness": 1.4,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "red_glazed_terracotta"
+    ]
+  },
+  "black_glazed_terracotta": {
+    "hardness": 1.4,
+    "tool": "pickaxe",
+    "dropabletool": [
+      "pickaxe"
+    ],
+    "transparent": false,
+    "drops": [
+      "black_glazed_terracotta"
+    ]
+  },
+  "white_concrete_powder": {
+    "hardness": 0.5,
+    "tool": "shovel",
+    "dropabletool": [
+      "shovel"
+    ],
+    "transparent": false,
+    "drops": [
+      "white_concrete_powder"
+    ]
+  },
+  "orange_concrete_powder": {
+    "hardness": 0.5,
+    "tool": "shovel",
+    "dropabletool": [
+      "shovel"
+    ],
+    "transparent": false,
+    "drops": [
+      "orange_concrete_powder"
+    ]
+  },
+  "magenta_concrete_powder": {
+    "hardness": 0.5,
+    "tool": "shovel",
+    "dropabletool": [
+      "shovel"
+    ],
+    "transparent": false,
+    "drops": [
+      "magenta_concrete_powder"
+    ]
+  },
+  "light_blue_concrete_powder": {
+    "hardness": 0.5,
+    "tool": "shovel",
+    "dropabletool": [
+      "shovel"
+    ],
+    "transparent": false,
+    "drops": [
+      "light_blue_concrete_powder"
+    ]
+  },
+  "yellow_concrete_powder": {
+    "hardness": 0.5,
+    "tool": "shovel",
+    "dropabletool": [
+      "shovel"
+    ],
+    "transparent": false,
+    "drops": [
+      "yellow_concrete_powder"
+    ]
+  },
+  "lime_concrete_powder": {
+    "hardness": 0.5,
+    "tool": "shovel",
+    "dropabletool": [
+      "shovel"
+    ],
+    "transparent": false,
+    "drops": [
+      "lime_concrete_powder"
+    ]
+  },
+  "pink_concrete_powder": {
+    "hardness": 0.5,
+    "tool": "shovel",
+    "dropabletool": [
+      "shovel"
+    ],
+    "transparent": false,
+    "drops": [
+      "pink_concrete_powder"
+    ]
+  },
+  "gray_concrete_powder": {
+    "hardness": 0.5,
+    "tool": "shovel",
+    "dropabletool": [
+      "shovel"
+    ],
+    "transparent": false,
+    "drops": [
+      "gray_concrete_powder"
+    ]
+  },
+  "light_gray_concrete_powder": {
+    "hardness": 0.5,
+    "tool": "shovel",
+    "dropabletool": [
+      "shovel"
+    ],
+    "transparent": false,
+    "drops": [
+      "light_gray_concrete_powder"
+    ]
+  },
+  "cyan_concrete_powder": {
+    "hardness": 0.5,
+    "tool": "shovel",
+    "dropabletool": [
+      "shovel"
+    ],
+    "transparent": false,
+    "drops": [
+      "cyan_concrete_powder"
+    ]
+  },
+  "purple_concrete_powder": {
+    "hardness": 0.5,
+    "tool": "shovel",
+    "dropabletool": [
+      "shovel"
+    ],
+    "transparent": false,
+    "drops": [
+      "purple_concrete_powder"
+    ]
+  },
+  "blue_concrete_powder": {
+    "hardness": 0.5,
+    "tool": "shovel",
+    "dropabletool": [
+      "shovel"
+    ],
+    "transparent": false,
+    "drops": [
+      "blue_concrete_powder"
+    ]
+  },
+  "brown_concrete_powder": {
+    "hardness": 0.5,
+    "tool": "shovel",
+    "dropabletool": [
+      "shovel"
+    ],
+    "transparent": false,
+    "drops": [
+      "brown_concrete_powder"
+    ]
+  },
+  "green_concrete_powder": {
+    "hardness": 0.5,
+    "tool": "shovel",
+    "dropabletool": [
+      "shovel"
+    ],
+    "transparent": false,
+    "drops": [
+      "green_concrete_powder"
+    ]
+  },
+  "red_concrete_powder": {
+    "hardness": 0.5,
+    "tool": "shovel",
+    "dropabletool": [
+      "shovel"
+    ],
+    "transparent": false,
+    "drops": [
+      "red_concrete_powder"
+    ]
+  },
+  "black_concrete_powder": {
+    "hardness": 0.5,
+    "tool": "shovel",
+    "dropabletool": [
+      "shovel"
+    ],
+    "transparent": false,
+    "drops": [
+      "black_concrete_powder"
+    ]
+  }
+}

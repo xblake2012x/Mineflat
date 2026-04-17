@@ -1,0 +1,17 @@
+{
+    "type": "shaped",
+    "pattern": [
+        "___",
+        "___",
+        "0__"
+    ],
+    "key": {
+        "0": {
+            "item": "oak_log"
+        }
+    },
+    "result": {
+        "item": "oak_planks",
+        "count": 4
+    }
+}

@@ -1,0 +1,10 @@
+[21:16:38] ✅ Found folder: Assets
+[21:16:38] ✅ Found folder: Mods
+[21:16:38] ✅ Found folder: Screenshots
+[21:16:38] ✅ Found folder: Logs
+[21:16:38] ✅ Found folder: Worlds
+[21:16:38] Attempting to start Mine Flat
+[21:16:40] Setting up window
+[21:16:40] Setting up world
+[21:16:40] Cacheing textures
+[21:16:40] loading recipes

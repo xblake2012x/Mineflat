@@ -1,0 +1,10 @@
+[
+  [0, 0, "oak_log"],
+  [0, -16, "oak_log"],
+  [-16, -32, "oak_leaves"],
+  [16, -64, "oak_leaves"],
+  [80, -32, "oak_leaves"],
+  [-16, -64, "oak_leaves"],
+  [16, -112, "oak_leaves"],
+  [80, -64, "oak_leaves"]
+]

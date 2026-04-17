@@ -1,0 +1,52 @@
+{
+  "wooden_pickaxe": {
+    "Durability": 59.0,
+    "Speed": 2.0,
+    "Attack": 2.0
+  },
+  "wooden_sword": {
+    "Durability": 59.0,
+    "Speed": 0.0,
+    "Attack": 4.0
+  },
+  "wooden_axe": {
+    "Durability": 59.0,
+    "Speed": 2.0,
+    "Attack": 7.0
+  },
+  "wooden_hoe": {
+    "Durability": 59.0,
+    "Speed": 2.0,
+    "Attack": 1.0
+  },
+  "wooden_shovel": {
+    "Durability": 59.0,
+    "Speed": 2.0,
+    "Attack": 2.5
+  },
+  "stone_sword": {
+    "Durability": 131.0,
+    "Speed": 0.0,
+    "Attack": 5.0
+  },
+  "stone_axe": {
+    "Durability": 131.0,
+    "Speed": 4.0,
+    "Attack": 9.0
+  },
+  "stone_pickaxe": {
+    "Durability": 131.0,
+    "Speed": 4.0,
+    "Attack": 3.0
+  },
+  "stone_hoe": {
+    "Durability": 131.0,
+    "Speed": 4.0,
+    "Attack": 1.0
+  },
+  "stone_shovel": {
+    "Durability": 131.0,
+    "Speed": 4.0,
+    "Attack": 3.5
+  }
+}

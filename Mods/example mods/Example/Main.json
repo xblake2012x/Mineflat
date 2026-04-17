@@ -1,0 +1,35 @@
+{
+    "Banana":{
+        "image":"images/banana.png",
+        "is_collidable":false,
+        "gravity":false,
+        "animation":{
+            "frames":[
+                "images/banana.png",
+                "images/apple.png"
+            ],
+            "current_frame": 0,
+            "last_frame_update": 0,
+            "frame_duration":1
+        }
+    },
+    "apple":{
+        "image": "images/apple.png",
+        "is_collidable": true,
+        "gravity": true,
+        "animation": {
+            "frames": [
+                "images/apple.png",
+                "images/8008.png"
+            ],
+            "current_frame": 0,
+            "last_frame_update": 0,
+            "frame_duration": 5
+        }
+    },
+    "8008":{
+        "image": "images/8008.png",
+        "is_collidable": true,
+        "gravity": true
+        }
+}

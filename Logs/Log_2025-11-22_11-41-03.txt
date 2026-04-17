@@ -1,0 +1,13 @@
+[11:41:03] ✅ Found folder: Assets
+[11:41:03] ✅ Found folder: Mods
+[11:41:03] ✅ Found folder: Screenshots
+[11:41:03] ✅ Found folder: Logs
+[11:41:03] ✅ Found folder: Worlds
+[11:41:03] Attempting to start Mine Flat
+[11:41:05] Setting up window
+[11:41:05] Setting up world
+[11:41:05] Cacheing textures
+[11:41:05] loading recipes
+[11:41:08] Setting up Mods
+[11:41:08] Setting up Modded hotbar
+[11:41:22] Game Closed, without bugs (at least, it didnt crash)

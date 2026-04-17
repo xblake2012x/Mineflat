@@ -1,0 +1,41 @@
+How to mod MineFlat
+
+Step 1:
+    make a folder, name it whatever
+
+Step 2:
+    make a Main.json in that folder
+
+Step 3:
+    go in the json file and type
+
+    (block):{
+        "image":"(Path_To_Image)",
+        "is_collidable":(true/false),
+        "gravity":(true/false),
+        "animation":{
+            frames:[
+                (Path_To_Frame1),
+                (Path_To_Frame2),
+                (You can do infinate paths, or just 2)
+            ],
+            "current_frame": 0,
+            "last_frame_update": 0,
+            "frame_duration":(the_seconds_til_the_next_frame)
+        }
+    }
+
+    NOTE: animation is optional, you dont need to do anything after animation except for the final }
+
+    NOTE2: The root is from the mod folder, so your images HAVE TO BE IN THE MOD FOLDER SOMEWHERE
+
+Step 4:
+    make the images for your new blocks and put it where the image path for the blocks is, MAKE SURE THE IMAGE IS 50x50 SIZE, IF NOT THE BLOCK WILL LOOK WEIRD but halarious BUT STILL WEIRD
+
+Step 5:
+    drag and drop the mod folder in the mod folder in the game
+
+Step 6:
+    launch the game, press r and see what garbage you made
+
+More Coming Soon

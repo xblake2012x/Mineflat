@@ -1,0 +1,18 @@
+{
+    "porkchop": {
+        "Heal": 3,
+        "Usable": true
+    },
+    "beef": {
+        "Heal": 5,
+        "Usable": true
+    },
+    "mutton": {
+        "Heal": 4,
+        "Usable": true
+    },
+    "leather": {
+        "Heal": 0,
+        "Usable": false
+    }
+}

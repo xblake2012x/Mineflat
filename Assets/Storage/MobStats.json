@@ -1,0 +1,50 @@
+{
+  "Pig": {
+    "HP": 10,
+    "Speed": 1.0,
+    "Max_speed": 5,
+    "DMG": 0,
+    "Type": "Passive",
+    "Range": 0,
+    "Left": "BLOCK_SIZE",
+    "Right": "BLOCK_SIZE",
+    "Width": "BLOCK_SIZE",
+    "Height": "BLOCK_SIZE"
+  },
+  "Cow": {
+    "HP": 12,
+    "Speed": 0.8,
+    "Max_speed": 4.5,
+    "Range": 0,
+    "DMG": 0,
+    "Type": "Passive",
+    "Left": "BLOCK_SIZE",
+    "Right": "BLOCK_SIZE",
+    "Width": "BLOCK_SIZE",
+    "Height": "BLOCK_SIZE"
+  },
+  "Sheep": {
+    "HP": 8,
+    "Speed": 1.2,
+    "Max_speed": 6,
+    "DMG": 0,
+    "Type": "Passive",
+    "Range": 0,
+    "Left": "BLOCK_SIZE",
+    "Right": "BLOCK_SIZE",
+    "Width": "BLOCK_SIZE",
+    "Height": "BLOCK_SIZE"
+  },
+  "Zombie": {
+    "HP": 8,
+    "Speed": 1.2,
+    "Max_speed": 6,
+    "DMG": 0,
+    "Type": "Hostile",
+    "Range": 3,
+    "Left": "BLOCK_SIZE",
+    "Right": "BLOCK_SIZE",
+    "Width": "BLOCK_SIZE",
+    "Height": "BLOCK_SIZE"
+  }
+}
